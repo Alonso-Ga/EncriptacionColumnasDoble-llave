@@ -1,0 +1,7 @@
+C:\Users\Erick\Downloads\ColumnTransposition-main\ColumnTransposition-main\col_transposition\bin\Debug\col_transposition.exe.config
+C:\Users\Erick\Downloads\ColumnTransposition-main\ColumnTransposition-main\col_transposition\bin\Debug\col_transposition.exe
+C:\Users\Erick\Downloads\ColumnTransposition-main\ColumnTransposition-main\col_transposition\bin\Debug\col_transposition.pdb
+C:\Users\Erick\Downloads\ColumnTransposition-main\ColumnTransposition-main\col_transposition\obj\Debug\col_transposition.csprojAssemblyReference.cache
+C:\Users\Erick\Downloads\ColumnTransposition-main\ColumnTransposition-main\col_transposition\obj\Debug\col_transposition.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Downloads\ColumnTransposition-main\ColumnTransposition-main\col_transposition\obj\Debug\col_transposition.exe
+C:\Users\Erick\Downloads\ColumnTransposition-main\ColumnTransposition-main\col_transposition\obj\Debug\col_transposition.pdb
